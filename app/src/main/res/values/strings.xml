@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iBaton</string>
+
+    <string name="Welcome">Welcome!</string>
+    <string name="action_settings">Settings</string>
+    <string name="createTableButton">Create a table</string>
+    <string name="save">Add Player</string>
+    <string name="clear">Clear All</string>
+    <string name="toast_user_exists">User is already at table</string>
+    <string name="toast_user_empty">Please input a name</string>
+    <string name="create">Create</string>
+    <string name="toast_table_empty">Table is empty</string>
+
+    <string name="title_activity_create_table">CreateTable</string>
+
+
+    <string name="hello_world">Hello world!</string>
+</resources>
